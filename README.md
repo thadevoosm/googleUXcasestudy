@@ -31,7 +31,7 @@ Welcome to BakeReview, the ultimate app for sharing and discovering culinary exp
 
 ## Screenshots
 
-![Screenshot 1](Sreeenshorts/landing_3_mobile.png)
+![Screenshot 1](Sreeenshorts/login.png)
 ![Screenshot 2](Screenshots/landing_3_mobile.png)
 ![Screenshot 3](Screenshots/write.png)
 
