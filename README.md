@@ -19,6 +19,11 @@ Welcome to BakeReview, the ultimate app for sharing and discovering culinary exp
 
 - **Seamless Social Sharing**: Share your reviews, ratings, and food photos effortlessly on social media platforms.
 
+## Case Study: User Experience (UX)
+
+For an in-depth look at how BakeReview was designed with user experience in mind, check out our [UX Case Study](case-study/ux-case-study.pdf).
+
+
 ## Getting Started
 
 1. **Download the App**: Head to the [App Store](#) or [Google Play](#) and download BakeReview.
