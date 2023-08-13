@@ -21,7 +21,7 @@ Welcome to BakeReview, the ultimate app for sharing and discovering culinary exp
 
 ## Case Study: User Experience (UX)
 
-For an in-depth look at how BakeReview was designed with user experience in mind, check out our [UX Case Study](Google-UX Design-Case study.pdf).
+For an in-depth look at how BakeReview was designed with user experience in mind, check out our [UX Case Study](Google-UX-Design-Case-study.pdf).
 
 
 ## Getting Started
