@@ -31,20 +31,19 @@ Welcome to BakeReview, the ultimate app for sharing and discovering culinary exp
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 1](Screenshots/login.png)
+![Screenshot 2](Screenshots/landing_3_mobile.png)
+![Screenshot 3](Screenshots/write.png)
 
 ## Feedback and Support
 
-We're constantly working to improve your culinary journey with BakeReview. If you encounter any issues or have suggestions, please [contact us](mailto:support@bakereview.com).
+We're constantly working to improve your culinary journey with BakeReview. If you encounter any issues or have suggestions, please [contact us](mailto: thadevoosmbiju@gmail.com).
 
 ## Connect with Us
 
 Stay updated with BakeReview news and features:
 
 - Follow us on [Facebook](https://www.facebook.com/BakeReviewApp)
-- Follow us on [Twitter](https://twitter.com/BakeReviewApp)
 - Follow us on [Instagram](https://www.instagram.com/bakereviewapp)
 
 ---
